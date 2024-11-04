@@ -5,11 +5,11 @@ This repository contains the backend code for the Watchy Android app, a dynamic 
 
 
 ## Key Features:
-**API Endpoint:** Serves data requests from the Watchy app, providing information on favorites and bookmarks for a specific user.<br/>
-**Authentication:** Implements JWT-based authentication to guarantee user identity and secure access to personalized data.<br/>
-**User Management:** Handles user registration, login, and profile management, securely storing user information in MongoDB Atlas.<br/>
-**Favoriting & Bookmarking:** Enables users to create and manage lists of favorite movies and TV shows, synchronizing data between app and backend.<br/>
-**Data Synchronization:** Seamlessly synchronizes user data (favorites, bookmarks) between the local Room database (app) and MongoDB Atlas (backend).<br/>
+**- API Endpoint:** Serves data requests from the Watchy app, providing information on favorites and bookmarks for a specific user.<br/>
+**- Authentication:** Implements JWT-based authentication to guarantee user identity and secure access to personalized data.<br/>
+**- User Management:** Handles user registration, login, and profile management, securely storing user information in MongoDB Atlas.<br/>
+**- Favoriting & Bookmarking:** Enables users to create and manage lists of favorite movies and TV shows, synchronizing data between app and backend.<br/>
+**- Data Synchronization:** Seamlessly synchronizes user data (favorites, bookmarks) between the local Room database (app) and MongoDB Atlas (backend).<br/>
 
 
 
