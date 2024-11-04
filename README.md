@@ -1,6 +1,5 @@
 # Watchy: Movie & TV Series App Backend (Ktor & MongoDB)
-
-This repository contains the backend code for the Watchy Android app, a dynamic platform for exploring movies and TV series. Developed using Ktor for server-side programming and MongoDB Atlas for data storage, the backend adheres to secure and efficient practices to enhance user experience.
+- This repository contains the backend code for the Watchy Android app, a dynamic platform for exploring movies and TV series. Developed using Ktor for server-side programming and MongoDB Atlas for data storage, the backend adheres to secure and efficient practices to enhance user experience.
 
 
 
@@ -21,12 +20,12 @@ This repository contains the backend code for the Watchy Android app, a dynamic 
 
 
 ## Contributions:
-We welcome your contributions! Feel free to suggest improvements, fix bugs, add features, or enhance documentation. Please follow the contributing guidelines outlined in the CONTRIBUTING.md file.
+- We welcome your contributions! Feel free to suggest improvements, fix bugs, add features, or enhance documentation. Please follow the contributing guidelines outlined in the CONTRIBUTING.md file.
 
 
 
 ## Community Appreciation:
-A big thank you to the Ktor, Kotlin, and MongoDB communities for their contributions and support. Together, we can make Watchy an even better experience for movie and TV series enthusiasts!
+- A big thank you to the Ktor, Kotlin, and MongoDB communities for their contributions and support. Together, we can make Watchy an even better experience for movie and TV series enthusiasts!
 
 
 ## Images From The Watchy App That Users This Backend:
